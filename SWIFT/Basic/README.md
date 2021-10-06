@@ -12,4 +12,7 @@
 | 4       | [데이터 타입 고급](https://github.com/One-Two-Min/WD26-Tech/blob/main/SWIFT/Basic/4%EC%9E%A5%20-%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85%20%EA%B3%A0%EA%B8%89.md) |
 | 5       | [연산자](https://github.com/One-Two-Min/WD26-Tech/blob/main/SWIFT/Basic/5%EC%9E%A5%20-%20%EC%97%B0%EC%82%B0%EC%9E%90.md) |
 | 6       | [흐름 제어](https://github.com/One-Two-Min/WD26-Tech/blob/main/SWIFT/Basic/6%EC%9E%A5%20-%20%ED%9D%90%EB%A6%84%EC%A0%9C%EC%96%B4.md) |
+| 7       | [함수](https://github.com/One-Two-Min/WD26-Tech/blob/main/SWIFT/Basic/7%EC%9E%A5%20-%20%ED%95%A8%EC%88%98.md) |
+| 8       | [옵셔널](https://github.com/One-Two-Min/WD26-Tech/blob/main/SWIFT/Basic/8%EC%9E%A5%20-%20%EC%98%B5%EC%85%94%EB%84%90.md) |
+| 9       | [구조체와 클래스](https://github.com/One-Two-Min/WD26-Tech/blob/main/SWIFT/Basic/9%EC%9E%A5%20-%20%EA%B5%AC%EC%A1%B0%EC%B2%B4%EC%99%80%20%ED%81%B4%EB%9E%98%EC%8A%A4.md) |
 
