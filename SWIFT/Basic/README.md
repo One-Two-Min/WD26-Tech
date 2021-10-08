@@ -4,15 +4,18 @@
 
 
 
-| Chapter | 제목                                                         |
-| ------- | ------------------------------------------------------------ |
-| 1       | [스위프트](https://github.com/One-Two-Min/WD26-Tech/blob/main/SWIFT/Basic/1%EC%9E%A5%20-%20%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8.md) |
-| 2       | [스위프트 처음 시작하기](https://github.com/One-Two-Min/WD26-Tech/blob/main/SWIFT/Basic/2%EC%9E%A5%20-%20%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8%20%EC%B2%98%EC%9D%8C%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0.md) |
-| 3       | [데이터 타입 기본](https://github.com/One-Two-Min/WD26-Tech/blob/main/SWIFT/Basic/3%EC%9E%A5%20-%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85%20%EA%B8%B0%EB%B3%B8.md) |
-| 4       | [데이터 타입 고급](https://github.com/One-Two-Min/WD26-Tech/blob/main/SWIFT/Basic/4%EC%9E%A5%20-%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85%20%EA%B3%A0%EA%B8%89.md) |
-| 5       | [연산자](https://github.com/One-Two-Min/WD26-Tech/blob/main/SWIFT/Basic/5%EC%9E%A5%20-%20%EC%97%B0%EC%82%B0%EC%9E%90.md) |
-| 6       | [흐름 제어](https://github.com/One-Two-Min/WD26-Tech/blob/main/SWIFT/Basic/6%EC%9E%A5%20-%20%ED%9D%90%EB%A6%84%EC%A0%9C%EC%96%B4.md) |
-| 7       | [함수](https://github.com/One-Two-Min/WD26-Tech/blob/main/SWIFT/Basic/7%EC%9E%A5%20-%20%ED%95%A8%EC%88%98.md) |
-| 8       | [옵셔널](https://github.com/One-Two-Min/WD26-Tech/blob/main/SWIFT/Basic/8%EC%9E%A5%20-%20%EC%98%B5%EC%85%94%EB%84%90.md) |
-| 9       | [구조체와 클래스](https://github.com/One-Two-Min/WD26-Tech/blob/main/SWIFT/Basic/9%EC%9E%A5%20-%20%EA%B5%AC%EC%A1%B0%EC%B2%B4%EC%99%80%20%ED%81%B4%EB%9E%98%EC%8A%A4.md) |
+| Chapter | 제목                                                         | 블로그                                                  |
+| ------- | ------------------------------------------------------------ | ------------------------------------------------------- |
+| 1       | [스위프트](https://github.com/One-Two-Min/WD26-Tech/blob/main/SWIFT/Basic/1%EC%9E%A5%20-%20%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8.md) | [링크](https://one10004.tistory.com/31?category=937499) |
+| 2       | [스위프트 처음 시작하기](https://github.com/One-Two-Min/WD26-Tech/blob/main/SWIFT/Basic/2%EC%9E%A5%20-%20%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8%20%EC%B2%98%EC%9D%8C%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0.md) | [링크](https://one10004.tistory.com/32?category=937499) |
+| 3       | [데이터 타입 기본](https://github.com/One-Two-Min/WD26-Tech/blob/main/SWIFT/Basic/3%EC%9E%A5%20-%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85%20%EA%B8%B0%EB%B3%B8.md) | [링크](https://one10004.tistory.com/33?category=937499) |
+| 4       | [데이터 타입 고급](https://github.com/One-Two-Min/WD26-Tech/blob/main/SWIFT/Basic/4%EC%9E%A5%20-%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85%20%EA%B3%A0%EA%B8%89.md) | [링크](https://one10004.tistory.com/34?category=937499) |
+| 5       | [연산자](https://github.com/One-Two-Min/WD26-Tech/blob/main/SWIFT/Basic/5%EC%9E%A5%20-%20%EC%97%B0%EC%82%B0%EC%9E%90.md) | [링크](https://one10004.tistory.com/35?category=937499) |
+| 6       | [흐름 제어](https://github.com/One-Two-Min/WD26-Tech/blob/main/SWIFT/Basic/6%EC%9E%A5%20-%20%ED%9D%90%EB%A6%84%EC%A0%9C%EC%96%B4.md) | [링크](https://one10004.tistory.com/36?category=937499) |
+| 7       | [함수](https://github.com/One-Two-Min/WD26-Tech/blob/main/SWIFT/Basic/7%EC%9E%A5%20-%20%ED%95%A8%EC%88%98.md) | [링크](https://one10004.tistory.com/37?category=937499) |
+| 8       | [옵셔널](https://github.com/One-Two-Min/WD26-Tech/blob/main/SWIFT/Basic/8%EC%9E%A5%20-%20%EC%98%B5%EC%85%94%EB%84%90.md) | [링크](https://one10004.tistory.com/38?category=937499) |
+| 9       | [구조체와 클래스](https://github.com/One-Two-Min/WD26-Tech/blob/main/SWIFT/Basic/9%EC%9E%A5%20-%20%EA%B5%AC%EC%A1%B0%EC%B2%B4%EC%99%80%20%ED%81%B4%EB%9E%98%EC%8A%A4.md) | [링크](https://one10004.tistory.com/39?category=937499) |
+| 10      | [프로퍼티와 메서드](https://github.com/One-Two-Min/WD26-Tech/blob/main/SWIFT/Basic/10%EC%9E%A5%20-%20%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0%EC%99%80%20%EB%A9%94%EC%84%9C%EB%93%9C.md) | [링크](https://one10004.tistory.com/40?category=937499) |
+| 11      | [인스턴스 생성 및 소멸](https://github.com/One-Two-Min/WD26-Tech/blob/main/SWIFT/Basic/11%EC%9E%A5%20-%20%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4%20%EC%83%9D%EC%84%B1%20%EB%B0%8F%20%EC%86%8C%EB%A9%B8.md) | [링크](https://one10004.tistory.com/41?category=937499) |
+| 12      | [접근제어](https://github.com/One-Two-Min/WD26-Tech/blob/main/SWIFT/Basic/12%EC%9E%A5%20-%20%EC%A0%91%EA%B7%BC%EC%A0%9C%EC%96%B4.md) | [링크](https://one10004.tistory.com/42?category=937499) |
 
