@@ -21,4 +21,7 @@
 | 13      | [클로저](https://github.com/One-Two-Min/WD26-Tech/blob/main/SWIFT/Basic/13%EC%9E%A5%20-%20%ED%81%B4%EB%A1%9C%EC%A0%80.md) | [링크](https://one10004.tistory.com/43)                 |
 | 14      | [옵셔널 체이닝과 빠른 종료](https://github.com/One-Two-Min/WD26-Tech/blob/main/SWIFT/Basic/14%EC%9E%A5%20-%20%EC%98%B5%EC%85%94%EB%84%90%20%EC%B2%B4%EC%9D%B4%EB%8B%9D%EA%B3%BC%20%EB%B9%A0%EB%A5%B8%20%EC%A2%85%EB%A3%8C.md) | [링크](https://one10004.tistory.com/44?category=937499) |
 | 15      | [맵, 필터, 리듀스](https://github.com/One-Two-Min/WD26-Tech/blob/main/SWIFT/Basic/15%EC%9E%A5%20-%20%EB%A7%B5%2C%20%ED%95%84%ED%84%B0%2C%20%EB%A6%AC%EB%93%80%EC%8A%A4.md) | [링크](https://one10004.tistory.com/45?category=937499) |
+| 16      | [모나드](https://github.com/One-Two-Min/WD26-Tech/blob/main/SWIFT/Basic/16%EC%9E%A5%20-%20%EB%AA%A8%EB%82%98%EB%93%9C.md) | [링크](https://one10004.tistory.com/46)                 |
+| 17      | [서브스크립트](https://github.com/One-Two-Min/WD26-Tech/blob/main/SWIFT/Basic/17%EC%9E%A5%20-%20%EC%84%9C%EB%B8%8C%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8.md) | [링크](https://one10004.tistory.com/47?category=937499) |
+| 18      | [상속](https://github.com/One-Two-Min/WD26-Tech/blob/main/SWIFT/Basic/18%EC%9E%A5%20-%20%EC%83%81%EC%86%8D.md) | [링크](https://one10004.tistory.com/48?category=937499) |
 
