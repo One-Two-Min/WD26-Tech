@@ -24,4 +24,7 @@
 | 16      | [모나드](https://github.com/One-Two-Min/WD26-Tech/blob/main/SWIFT/Basic/16%EC%9E%A5%20-%20%EB%AA%A8%EB%82%98%EB%93%9C.md) | [링크](https://one10004.tistory.com/46)                 |
 | 17      | [서브스크립트](https://github.com/One-Two-Min/WD26-Tech/blob/main/SWIFT/Basic/17%EC%9E%A5%20-%20%EC%84%9C%EB%B8%8C%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8.md) | [링크](https://one10004.tistory.com/47?category=937499) |
 | 18      | [상속](https://github.com/One-Two-Min/WD26-Tech/blob/main/SWIFT/Basic/18%EC%9E%A5%20-%20%EC%83%81%EC%86%8D.md) | [링크](https://one10004.tistory.com/48?category=937499) |
+| 19      | [타입캐스팅](https://github.com/One-Two-Min/WD26-Tech/blob/main/SWIFT/Basic/19%EC%9E%A5%20-%20%ED%83%80%EC%9E%85%EC%BA%90%EC%8A%A4%ED%8C%85.md) | [링크](https://one10004.tistory.com/56)                 |
+| 20      | [프로토콜](https://github.com/One-Two-Min/WD26-Tech/blob/main/SWIFT/Basic/20%EC%9E%A5%20-%20%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C.md) | [링크](https://one10004.tistory.com/57)                 |
+| 21      | [익스텐션](https://github.com/One-Two-Min/WD26-Tech/blob/main/SWIFT/Basic/21%EC%9E%A5%20-%20%EC%9D%B5%EC%8A%A4%ED%85%90%EC%85%98.md) | [링크](https://one10004.tistory.com/58)                 |
 
