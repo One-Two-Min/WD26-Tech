@@ -30,4 +30,10 @@
 | 22      | [제네릭](https://github.com/One-Two-Min/WD26-Tech/blob/main/SWIFT/Basic/22%EC%9E%A5%20-%20%EC%A0%9C%EB%84%A4%EB%A6%AD.md) | [링크](https://one10004.tistory.com/61)                 |
 | 23      | [프로토콜 지향 프로그래밍](https://github.com/One-Two-Min/WD26-Tech/blob/main/SWIFT/Basic/23%EC%9E%A5%20-%20%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C%20%EC%A7%80%ED%96%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md) | [링크](https://one10004.tistory.com/62?category=937499) |
 | 24      | [타입 중첩](https://github.com/One-Two-Min/WD26-Tech/blob/main/SWIFT/Basic/24%EC%9E%A5%20-%20%ED%83%80%EC%9E%85%20%EC%A4%91%EC%B2%A9.md) | [링크](https://one10004.tistory.com/63?category=937499) |
+| 25      | [패턴](https://github.com/One-Two-Min/WD26-Tech/blob/main/SWIFT/Basic/25%EC%9E%A5%20-%20%ED%8C%A8%ED%84%B4.md) | [링크](https://one10004.tistory.com/74?category=937499) |
+| 26      | [where 절](https://github.com/One-Two-Min/WD26-Tech/blob/main/SWIFT/Basic/26%EC%9E%A5%20-%20where%20%EC%A0%88.md) | [링크](https://one10004.tistory.com/75?category=937499) |
+| 27      | [ARC](https://github.com/One-Two-Min/WD26-Tech/blob/main/SWIFT/Basic/27%EC%9E%A5%20-%20ARC.md) | [링크](https://one10004.tistory.com/76?category=937499) |
+| 28      | [오류처리](https://github.com/One-Two-Min/WD26-Tech/blob/main/SWIFT/Basic/28%EC%9E%A5%20-%20%EC%98%A4%EB%A5%98%EC%B2%98%EB%A6%AC.md) | [링크](https://one10004.tistory.com/77?category=937499) |
+| 29      | [메모리 안전](https://github.com/One-Two-Min/WD26-Tech/blob/main/SWIFT/Basic/29%EC%9E%A5%20-%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EC%95%88%EC%A0%84.md) | [링크](https://one10004.tistory.com/78?category=937499) |
+| 30      | [불명확 타입](https://github.com/One-Two-Min/WD26-Tech/blob/main/SWIFT/Basic/30%EC%9E%A5%20-%20%EB%B6%88%EB%AA%85%ED%99%95%20%ED%83%80%EC%9E%85.md) | [링크](https://one10004.tistory.com/79)                 |
 
